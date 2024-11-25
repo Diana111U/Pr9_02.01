@@ -1,0 +1,10 @@
+X:\МДК 01.01\pr12\bin\Debug\pr12.exe.config
+X:\МДК 01.01\pr12\bin\Debug\pr12.exe
+X:\МДК 01.01\pr12\bin\Debug\pr12.pdb
+X:\МДК 01.01\pr12\obj\Debug\pr12.csproj.AssemblyReference.cache
+X:\МДК 01.01\pr12\obj\Debug\pr12.Form1.resources
+X:\МДК 01.01\pr12\obj\Debug\pr12.Properties.Resources.resources
+X:\МДК 01.01\pr12\obj\Debug\pr12.csproj.GenerateResource.cache
+X:\МДК 01.01\pr12\obj\Debug\pr12.csproj.CoreCompileInputs.cache
+X:\МДК 01.01\pr12\obj\Debug\pr12.exe
+X:\МДК 01.01\pr12\obj\Debug\pr12.pdb
